@@ -6,7 +6,7 @@ This repository contains a univariate time series analysis and forecasting model
 The dataset consists of historical daily stock prices for Apple Inc., sourced from Kaggle. For this model, the analysis focuses exclusively on the `Date` (index) and `Close` (Daily Closing Price in USD) variables.
 * **Link:** [Apple Stock Data 2025 (Kaggle)](https://www.kaggle.com/datasets/umerhaddii/apple-stock-data-2025)
 
-![Raw Data](ARIMA_1_Raw_DataF.png)
+![Raw Data](ARIMA_1_Raw_Data.png)
 
 ## 🛠️ Methodology
 Financial market data is inherently non-stationary due to long-term economic growth. 
